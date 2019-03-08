@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "bcrypt": "^3.0.4",
+    "dotenv": "^6.2.0",
+    "jsonwebtoken": "^8.5.0",
+    "mongoose": "^5.4.17",
+    "unete-cli": "^1.1.8"
+  },
+  "scripts": {
+    "start": "unete-cli start index.js 40001"
+  }
+}
